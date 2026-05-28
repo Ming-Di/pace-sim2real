@@ -73,3 +73,12 @@ tests/
 
 # PACE specific
 **/data/*
+
+# Track selected PACE data/artifacts
+!/data/
+!/data/**
+!/logs/
+!/logs/pace/
+logs/pace/*
+!/logs/pace/anymal_d_sim/
+!/logs/pace/anymal_d_sim/**
